@@ -1,4 +1,6 @@
 # GuitarHeroUnity
+#NOT COMPLETE AT ALL
+
 Open Source - Guitar Hero fan game made in Unity.
 
 After seeing the .chart files in Clone Hero, i wanted to see if i could read them in Unity. So I threw this together.
